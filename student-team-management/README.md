@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This project was made by SAAZ BHARGAVA, ANJALI DUBEY and HARSHIT SHARMA 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
